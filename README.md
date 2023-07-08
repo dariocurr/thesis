@@ -1,2 +1,1 @@
-# thesis
-Just my Master thesis
+# Just my Master thesis
